@@ -1,0 +1,24 @@
+.btn1{
+     display: inline-block;
+    padding: 30px 60px;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+    box-shadow: inset 0 0 0 0 #f9e506;
+    transition: 0.5s ease-out;
+    font-size: 2em;
+}
+.btn1:hover{
+    box-shadow: inset 271px 0 0 0 #f9e506;
+    color: black;
+}
+
+.btn2{
+    display: inline-block;
+    padding: 30px 60px;
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    border-radius: 5px;
+}
